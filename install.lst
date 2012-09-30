@@ -1,0 +1,23 @@
+# Syntax: FROM [TO [MODE]]
+#
+# Without trailing slash: rename file TO; TO expansions $PKG $VER DOC
+# Scripts and manpages are automatically installed; no TO is needed:
+# Script suffixes *.pl etc. are stripped on install.
+#
+#    program usr/bin/
+#    prg     usr/bin/newname
+#    README  $DOC/ 644
+#    man.1
+#    program.pl
+
+contrib/xcscope/xcscope.el  usr/share/emacs/site-lisp/
+src/cscope                      usr/bin/
+
+doc/cscope.1
+doc/xcscope.1
+
+contrib/ocs                     usr/bin/
+contrib/xcscope/cscope-indexer  usr/bin/
+contrib/README                  usr/share/doc/cscope/contrib/
+contrib/webcscope/    usr/share/doc/cscope/contrib/webcscope/
+

@@ -1,0 +1,7 @@
+sdesc: "Interactively examine a C program source"
+ldesc: "A source browsing tool. Although it is primarily designed to search C
+code (including lex and yacc files), it can also be used for C++ code.
+Using cscope, you can easily search for where symbols are used and
+defined."
+category: Devel
+requires: libncurses10
