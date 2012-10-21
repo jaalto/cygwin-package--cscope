@@ -23,7 +23,7 @@ INSTALL OR UPGRADE NOTES
 
 Standard install.
 
-For Emacs, use file /usr/share/emacs/site-lisp/xcscope.el
+For Emacs support, see /usr/share/emacs/site-lisp/xcscope.el
 
 CYGWIN INSTALLATION INFORMATION
 ===============================
