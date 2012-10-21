@@ -1,0 +1,4 @@
+sdesc: "Obsolete Lucent version of cscope"
+ldesc: "Obsolete Lucent version of cscope"
+requires: cscope
+category: _obsolete
