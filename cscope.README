@@ -9,11 +9,11 @@ Using cscope, you can easily search for where symbols are used and
 defined.
 
 Runtime requirements:
-  libncurses10
+  libncursesw10
 
 Build requirements:
   quilt
-  libncurses-devel
+  libncursesw-devel
 
 Canonical homepage:
   http://freecode.com/projects/cscope
@@ -59,6 +59,8 @@ Files included in the binary distribution:
 ------------------------------------------
 
 Port Notes:
+- 2012-10-21 mlscope was obsoleted and replaced by cscope. See
+- http://cygwin.com/ml/cygwin-apps/2012-10/msg00251.html
 
 ----- version 15.8.0.1-1 -----
 - Initial release 2012-09-30 Jari Aalto
