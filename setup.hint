@@ -4,4 +4,4 @@ code (including lex and yacc files), it can also be used for C++ code.
 Using cscope, you can easily search for where symbols are used and
 defined."
 category: Devel
-requires: libncurses10
+requires: libncursesw10
