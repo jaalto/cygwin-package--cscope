@@ -5,7 +5,7 @@ Subject: New package: cscope 15.8.0.1-1 -- Interactively examine a C program sou
 PACKAGE DESCRIPTION
 ===================
 
-Homepage: http://freecode.com/projects/cscope
+Homepage: http://cscope.sourceforge.net
 License : BSD
 
 A source browsing tool. Although it is primarily designed to search C
@@ -16,6 +16,7 @@ defined.
 CHANGES SINCE LAST RELEASE
 ==========================
 
+Cygwin: compiled with libncursesw10
 See homepage and http://cscope.cvs.sourceforge.net/viewvc/cscope/cscope/
 
 INSTALL OR UPGRADE NOTES
