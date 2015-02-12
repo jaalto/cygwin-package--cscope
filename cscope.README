@@ -16,7 +16,7 @@ Build requirements:
   libncursesw-devel
 
 Canonical homepage:
-  http://freecode.com/projects/cscope
+  http://cscope.sourceforge.net
   https://sourceforge.net/projects/cscope
   http://packages.debian.org/cscope
 
@@ -63,11 +63,12 @@ Port Notes:
 - http://cygwin.com/ml/cygwin-apps/2012-10/msg00251.html
 
 ----- version 15.8.0.1-2 -----
-- 2014-02-05 Build with libncursesw10
+- new release 2014-02-05 Jari aalto
+- Compile with libncursesw10
 
 ----- version 15.8.0.1-1 -----
 - Initial release 2012-09-30 Jari Aalto
 - Upstream version 15.8a
 
 Cygwin port maintained by: Jari Aalto <jari.aalto@cante.net>
-Copyright (C) 2012 Jari Aalto; Licensed under GPL v2 or later
+Copyright (C) 2012-2015 Jari Aalto; Licensed under GPL v2 or later
