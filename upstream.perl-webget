@@ -1,2 +1,2 @@
 tag1: cscope
-  http://packages.debian.org/unstable/cscope  pregexp:orig.tar.gz file:cscope_15.7a.orig.tar.gz new: x:
+  http://packages.debian.org/unstable/cscope  pregexp:orig.tar.xz file:cscope_15.7a.orig.tar.xz new: x:
